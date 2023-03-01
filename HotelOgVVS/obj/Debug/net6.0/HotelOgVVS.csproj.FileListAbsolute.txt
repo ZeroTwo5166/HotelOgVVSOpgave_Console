@@ -1,0 +1,15 @@
+C:\Users\subar\source\repos\HotelOgVVS\HotelOgVVS\bin\Debug\net6.0\HotelOgVVS.exe
+C:\Users\subar\source\repos\HotelOgVVS\HotelOgVVS\bin\Debug\net6.0\HotelOgVVS.deps.json
+C:\Users\subar\source\repos\HotelOgVVS\HotelOgVVS\bin\Debug\net6.0\HotelOgVVS.runtimeconfig.json
+C:\Users\subar\source\repos\HotelOgVVS\HotelOgVVS\bin\Debug\net6.0\HotelOgVVS.dll
+C:\Users\subar\source\repos\HotelOgVVS\HotelOgVVS\bin\Debug\net6.0\HotelOgVVS.pdb
+C:\Users\subar\source\repos\HotelOgVVS\HotelOgVVS\obj\Debug\net6.0\HotelOgVVS.csproj.AssemblyReference.cache
+C:\Users\subar\source\repos\HotelOgVVS\HotelOgVVS\obj\Debug\net6.0\HotelOgVVS.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\subar\source\repos\HotelOgVVS\HotelOgVVS\obj\Debug\net6.0\HotelOgVVS.AssemblyInfoInputs.cache
+C:\Users\subar\source\repos\HotelOgVVS\HotelOgVVS\obj\Debug\net6.0\HotelOgVVS.AssemblyInfo.cs
+C:\Users\subar\source\repos\HotelOgVVS\HotelOgVVS\obj\Debug\net6.0\HotelOgVVS.csproj.CoreCompileInputs.cache
+C:\Users\subar\source\repos\HotelOgVVS\HotelOgVVS\obj\Debug\net6.0\HotelOgVVS.dll
+C:\Users\subar\source\repos\HotelOgVVS\HotelOgVVS\obj\Debug\net6.0\refint\HotelOgVVS.dll
+C:\Users\subar\source\repos\HotelOgVVS\HotelOgVVS\obj\Debug\net6.0\HotelOgVVS.pdb
+C:\Users\subar\source\repos\HotelOgVVS\HotelOgVVS\obj\Debug\net6.0\HotelOgVVS.genruntimeconfig.cache
+C:\Users\subar\source\repos\HotelOgVVS\HotelOgVVS\obj\Debug\net6.0\ref\HotelOgVVS.dll
