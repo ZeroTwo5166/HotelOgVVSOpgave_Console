@@ -18,7 +18,6 @@ namespace HotelOgVVS
         public bool IsToiletWorking { get; set; }
         public Rum()
         {
-            
         }
 
         public List<Rum> GetRumType()
@@ -151,7 +150,10 @@ namespace HotelOgVVS
 
         }
 
-        
+        public virtual void WhoAmI()
+        {
+            Console.WriteLine("I am room");
+        }
 
     }
 }

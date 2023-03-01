@@ -22,7 +22,7 @@ namespace HotelOgVVS
 
         public int NumberOfVærelse { get; set; }
         public List<Rum> ListOfRum { get; set; } = new List<Rum>();
-        public Værelse() { }
+        public Værelse() {        }
         public List<Værelse> GetVærelseList()
         {
             List<Værelse> værelseList = new List<Værelse> ();
@@ -53,6 +53,11 @@ namespace HotelOgVVS
             var feature = roomFeatures.Distinct().ToList();
             return feature;
 
+        }
+
+        public override void WhoAmI()
+        {
+            Console.WriteLine("I am Værelse");
         }
     }
 }

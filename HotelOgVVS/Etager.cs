@@ -23,6 +23,11 @@ namespace HotelOgVVS
             return listOfEtager;
         }
 
+        public override void WhoAmI()
+        {
+            Console.WriteLine("I am Etager");
+        }
+
 
     }
 }

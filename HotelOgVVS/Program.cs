@@ -25,6 +25,9 @@ class Program : Indentation
             ejer.Name = ejerName;
 
         ColorMessage(ConsoleColor.Green, "Welcome " + ejer.Name, true);
+        
+        Console.WriteLine();
+
         Console.Write("Press any key to go to Create Hotel Menu...");
         Console.ReadKey();
         Console.Clear();   
@@ -64,9 +67,7 @@ class Program : Indentation
         Guest guest = CreateGuest();
 
         LoginOptions(hotel, ejer, guest);
-
-        
-
+  
     }
    
 
@@ -228,33 +229,5 @@ class Program : Indentation
   */
 
 
-    /*
-     Guest guest = CreateGuest();
 
-        Værelse guestVærelse = GetGuestVærelse(hotel);
-
-        guest.BookVærelse(guestVærelse);
-
-        //List<Rum> allToiletNotWorkingList = CheckToiletCondition(guestVærelse);
-
-        var notworkingToilets = guest.CheckToiletCondition();
-
-        if (notworkingToilets.Count > 0)
-        {
-            guest.InformOwner();
-
-            ColorMessage(ConsoleColor.Red, "\nThere are " + notworkingToilets.Count + " toilets that are out of order.", true);
-            foreach (var item in notworkingToilets)
-            {
-                ColorMessage(ConsoleColor.Red, "Room no: " + item.Key + "| Toilet working: " + item.Value.IsToiletWorking, true);
-            }
-
-            ColorMessage(ConsoleColor.Red, "Do you want to fix them? ('y' or 'n')", true);
-            Console.Write("-> ");
-            bool hireVVS = GetBoolean(Console.ReadLine());
-
-            if (hireVVS)
-                ejer.HireVVS(notworkingToilets);
-
-        }*/
 }

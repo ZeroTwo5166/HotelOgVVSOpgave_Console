@@ -246,10 +246,7 @@ namespace HotelOgVVS
                 Console.WriteLine();
             }
             return guestVærelse;
-        }
-
-        
-
+        }    
 
         public void ListAllRoomsInVærelse()
         {
